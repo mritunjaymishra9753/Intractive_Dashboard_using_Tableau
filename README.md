@@ -20,7 +20,6 @@ This interactive and informative dashboard provides an in-depth analysis of the 
 
 The Bike Haven Sales Dashboard in Tableau provides comprehensive insights into sales performance, customer demographics, and inventory management. With its visually appealing and interactive design, users can gain a deeper understanding of the business's performance and make data-driven decisions to optimize sales strategies.
 
-*Note: This description assumes that the dashboard is designed and implemented in Tableau, a powerful data visualization tool widely used in the industry. The actual implementation may vary based on the specific requirements and data availability of The Bike Haven.*
 
 # What I have done in this Project.
 
